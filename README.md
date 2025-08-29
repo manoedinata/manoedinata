@@ -1,5 +1,5 @@
 > [!NOTE]  
-> Under construction. Get to know more about me through my website: <https://manoedinata.com>.
+> Under construction. Get to know more about me through my website: <https://mdinata.my.id>.
 
 ---
 
