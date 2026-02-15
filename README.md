@@ -1,5 +1,5 @@
 > [!NOTE]
-> See my website to get to know more about me: <https://mdinata.my.id>
+> See my website to get to know more about me: <https://manoedinata.github.io>
 
 I'm **Hendra Manudinata**, usually called **Hendra**. I'm a student from Indonesia with interests in web development, embedded devices, as well as cyber security. I'm currently pursuing a bachelor's degree in [Information Technology](https://www.its.ac.id/it) at [Institut Teknologi Sepuluh Nopember](https://www.its.ac.id).
 
